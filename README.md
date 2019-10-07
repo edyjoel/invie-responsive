@@ -1,5 +1,4 @@
 # invie
 Las guitarras más locas.
 
-[Overview]:(https://edyjoel.github.io/invie-responsive/)
-
+# [Overview](https://edyjoel.github.io/invie-responsive/)
